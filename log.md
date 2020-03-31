@@ -1,6 +1,6 @@
-#My 100DaysOfCode Log
+# My 100DaysOfCode Log
 
-####Hi! I created a log for my 100 days of code challange
+#### Hi! I created a log for my 100 days of code challange
 
-#####Day:1
+##### Day:1
 
