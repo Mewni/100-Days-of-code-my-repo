@@ -12,6 +12,10 @@
 
 **Thoughts:** I actually want to be happy because I did a lot than yesterday.
 
+### Day 3: April 1,2020
+**Today's Progress**: Learned about Styling HTML with CSS
+
+**Thoughts:** Get to know about how to style a HTML with CSS.
 
 
 
