@@ -22,6 +22,12 @@
 
 **Thoughts:** Very happy about today because within a short period of time I got to know about some important facts.Thanks to freecodecamp YouTube channel.
 
+### Day 4: April 2,2020
+**Today's Progress**: Learned about adding a image to a HTML File.Got to know about Emmet and Live Server in Visual Studio Code,some copyright free image downloading websites,how to change the settings in Visual Studio Code(also with the json file) and how to deal with dummy texts( got to know about dummy lorem ipsum hister :) )
+
+**Thoughts:** Very happy about today because within a short period of time I got to know about some important facts.Thanks to freecodecamp YouTube channel.
+
+
 
 
 
