@@ -22,13 +22,18 @@
 
 **Thoughts:** Very happy about today because within a short period of time I got to know about some important facts.Thanks to freecodecamp YouTube channel.
 
-### Day 5: April 2,2020
+### Day 5: April 4,2020
 **Today's Progress**: Learned about HTML Images and HTML Links
 
 **Thoughts:** Very happy about today because within a short period of time I got to know about some important facts.Thanks to freecodecamp YouTube channel.
 
-### Day 6: April 2,2020
+### Day 6: April 5,2020
 **Today's Progress**: Learned about HTML Forms HTML Lists HTML special characters,HTML tables and many more.
+
+**Thoughts:** Very happy about today because within a short period of time I got to know about some important facts.Thanks to freecodecamp YouTube channel.
+
+### Day 7: April 6,2020
+**Today's Progress**: Did a small HTML Project including the things that I have learnt so far.
 
 **Thoughts:** Very happy about today because within a short period of time I got to know about some important facts.Thanks to freecodecamp YouTube channel.
 
