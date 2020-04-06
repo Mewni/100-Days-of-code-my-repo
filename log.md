@@ -35,7 +35,7 @@
 ### Day 7: April 6,2020
 **Today's Progress**: Did a small HTML Project including the things that I have learnt so far.
 
-**Thoughts:** Very happy about today because within a short period of time I got to know about some important facts.Thanks to freecodecamp YouTube channel.
+**Thoughts:** So Happy !!!!
 
 
 
