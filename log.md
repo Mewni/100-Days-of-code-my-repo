@@ -37,6 +37,12 @@
 
 **Thoughts:** So Happy !!!!
 
+### Day 8: April 7,2020
+**Today's Progress**: Learned about HTML Forms-radio button,checkbox,
+
+**Thoughts:** 
+
+
 
 
 
