@@ -39,8 +39,8 @@
 
 ### Day 8: April 7,2020
 **Today's Progress**: Learned about HTML Forms-radio button,checkbox,labels dealing with ids :),placeholders,inputs,textarea attribute,and the "checked"
-thing that we used to automatically has a tick,Dropdown Menu 
-**Thoughts:** HTML Forms are cool becuse I always like the selecting part in Forms ex-In Google Forms
+thing that we used to automatically has a tick,Dropdown Menu etc.
+**Thoughts:** HTML Forms are cool because I always like the selecting part in Forms ex-In Google Forms :)
 
 
 
