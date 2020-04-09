@@ -51,7 +51,7 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 ### Day 10: April 9,2020
 **Today's Progress**: Completed CSS Basics in freecodecamp.
 
-**Thoughts:** 
+**Thoughts:** Happy to finish this part.
 
 
 
