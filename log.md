@@ -42,6 +42,17 @@
 thing that we used to automatically has a tick,Dropdown Menu etc.
 **Thoughts:** HTML Forms are cool because I always like the selecting part in Forms ex-In Google Forms :)
 
+### Day 9: April 8,2020
+**Today's Progress**: Completed HTML and HTML5 basics in freecodecamp
+**Thoughts:** 
+
+### Day 10: April 9,2020
+**Today's Progress**: Learned about HTML Forms-radio button,checkbox,labels dealing with ids :),placeholders,inputs,textarea attribute,and the "checked"
+thing that we used to automatically has a tick,Dropdown Menu etc.
+**Thoughts:** HTML Forms are cool because I always like the selecting part in Forms ex-In Google Forms :)
+
+
+
 
 
 
