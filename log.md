@@ -54,34 +54,34 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 **Thoughts:** Happy to finish this part.
 
 ### Day 11: April 10,2020
-**Today's Progress**: Completed CSS Basics in freecodecamp.
+**Today's Progress**: Completed some sub topics under Applied Visual Design at freecodecamp.
 
-**Thoughts:** Happy to finish this part.
+**Thoughts:** 
 
-### Day 10: April 9,2020
-**Today's Progress**: Completed CSS Basics in freecodecamp.
+### Day 12: April 11,2020
+**Today's Progress**: Learned some CSS Basics.
 
-**Thoughts:** Happy to finish this part.
+**Thoughts:** 
 
-### Day 10: April 9,2020
-**Today's Progress**: Completed CSS Basics in freecodecamp.
+### Day 13: April 12,2020
+**Today's Progress**: Started to learn Python today.
 
-**Thoughts:** Happy to finish this part.
+**Thoughts:** 
 
-### Day 10: April 9,2020
-**Today's Progress**: Completed CSS Basics in freecodecamp.
+### Day 14: April 13,2020
+**Today's Progress**: Learned some Python today.
 
-**Thoughts:** Happy to finish this part.
+**Thoughts:** 
 
-### Day 10: April 9,2020
-**Today's Progress**: Completed CSS Basics in freecodecamp.
+### Day 15: April 14,2020
+**Today's Progress**: Learned about different functions in Python that we can use with strings.
 
-**Thoughts:** Happy to finish this part.
+**Thoughts:** 
 
-### Day 10: April 9,2020
-**Today's Progress**: Completed CSS Basics in freecodecamp.
+### Day 16: April 15,2020
+**Today's Progress**: Learned Python from w3schools.
 
-**Thoughts:** Happy to finish this part.
+**Thoughts:** 
 
 
 
