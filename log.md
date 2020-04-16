@@ -63,22 +63,22 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 
 **Thoughts:** 
 
-### Day 13: April 12,2020
+### Day 13: April 13,2020
 **Today's Progress**: Started to learn Python today.
 
 **Thoughts:** 
 
-### Day 14: April 13,2020
+### Day 14: April 14,2020
 **Today's Progress**: Learned some Python today.
 
 **Thoughts:** 
 
-### Day 15: April 14,2020
+### Day 15: April 15,2020
 **Today's Progress**: Learned about different functions in Python that we can use with strings.
 
 **Thoughts:** 
 
-### Day 16: April 15,2020
+### Day 16: April 16,2020
 **Today's Progress**: Learned Python from w3schools.
 
 **Thoughts:** 
