@@ -83,6 +83,11 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 
 **Thoughts:** 
 
+### Day 17: April 17,2020
+**Today's Progress**: Learned Python.
+
+**Thoughts:** 
+
 
 
 
