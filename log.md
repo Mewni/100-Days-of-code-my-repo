@@ -89,12 +89,12 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 **Thoughts:** 
 
 ### Day 18: April 18,2020
-**Today's Progress**: Learned Python.
+**Today's Progress**: Completed day 18 by learning more about Python.
 
 **Thoughts:** 
 
 ### Day 19: April 20,2020
-**Today's Progress**: Learned Python.
+**Today's Progress**: Today I created my own small Animated Panda using CSS by watching and getting the idea from a YouTube video.And also I uploaded the source code to GitHub.
 
 **Thoughts:** 
 
