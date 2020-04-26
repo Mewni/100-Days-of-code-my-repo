@@ -101,7 +101,7 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 ### Day 20: April 26,2020
 **Today's Progress**: Learned Python.
 
-**Thoughts:** 
+**Thoughts:** Today I completed Applied Visual Design part under the Responsive Web Design Certification in freeCodeCamp 
 
 
 
