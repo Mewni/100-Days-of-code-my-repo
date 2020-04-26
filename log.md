@@ -88,6 +88,21 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 
 **Thoughts:** 
 
+### Day 18: April 18,2020
+**Today's Progress**: Learned Python.
+
+**Thoughts:** 
+
+### Day 19: April 20,2020
+**Today's Progress**: Learned Python.
+
+**Thoughts:** 
+
+### Day 20: April 26,2020
+**Today's Progress**: Learned Python.
+
+**Thoughts:** 
+
 
 
 
