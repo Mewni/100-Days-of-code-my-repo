@@ -103,6 +103,19 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 
 **Thoughts:** Today I completed Applied Visual Design part under the Responsive Web Design Certification in freeCodeCamp 
 
+### Day 21: April 26,2020
+**Today's Progress**: Today I completed the "Introducing Coding for Beginners: an HTML and CSS Online Course" in #BitDegree and also completed the Applied Accessibility part under the Responsive Web Design Certification in #freeCodeCamp .
+
+**Thoughts:** 
+
+### Day 22: April 27,2020
+**Today's Progress**: Today I created a Hot Coffee Animation using CSS by watching and getting the idea from a YouTube video.
+
+**Thoughts:** 
+
+
+
+
 
 
 
