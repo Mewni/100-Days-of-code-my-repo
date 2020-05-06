@@ -113,6 +113,11 @@ thing that we used to automatically has a tick,Dropdown Menu etc.
 
 **Thoughts:** 
 
+### Day 23: April 27,2020
+**Today's Progress**: Thought to revise what I learnt so far.
+
+**Thoughts:** 
+
 
 
 
